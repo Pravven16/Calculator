@@ -1,4 +1,4 @@
-# Calculaor
+# Calculator
 
 ## Mathematical functionalities using CSS, HTML, and JavaScript
 ## Perform basic functions such as addition, subtraction, division, and multiplication

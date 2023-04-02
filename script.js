@@ -1,7 +1,7 @@
 const input = document.getElementById('input'),
     clear = document.getElementById('clear'),
     equal = document.getElementById('equal'),
-    allButton = document.querySelectorAll('button');
+    allButton = document.querySelectorAll('button');                                                        
 for (let button of allButton) {
     button.addEventListener('click', (e) => {
         let buttonText = e.target.innerText;
